@@ -1,4 +1,4 @@
-<h1>Hi, I'm Louren! <br/><a href="www.linkedin.com/in/lourensious-lukito">Aspiring Cyber Security Professional</a>
+<h1>Hi, I'm Louren! <br/><a href="www.linkedin.com/in/lourensious-lukito">Aspiring Information Security Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
