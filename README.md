@@ -4,8 +4,7 @@
 
 - <b>Malware Analysis Lab</b>
   - [Malware Analysis lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Home SOC Lab</b>
-  - [Home SOC Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></b>
+  - [Home SOC Lab](https://github.com/lukito09/SOCLab/blob/ffd6b218d14efaa44f776858290da0104a62f472/README.md) <b></b>
 
  
   <h2> Certifications</h2>
