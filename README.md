@@ -8,7 +8,8 @@
 
  
   <h2> Certifications</h2>
-    
+    - <a href="https://coursera.org/share/f9791d4ecb420c4a25dd4a3030fd6bc2">Google Cybersecurity</a>
+    - <a href="https://i.postimg.cc/kGCJdGZX/a7007102-f883-4531-87a1-3207d4e0cae9.png">Google Cybersecurity</a>
 
 
 
