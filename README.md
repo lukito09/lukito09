@@ -5,6 +5,7 @@
 - <b>Malware Analysis Lab</b>
   - [Malware Analysis lab](https://github.com/lukito09/MalwareLab)
   - [Home SOC Lab](https://github.com/lukito09/SOCLab/blob/ffd6b218d14efaa44f776858290da0104a62f472/README.md) <b></b>
+  - [Qualys Vulnerability Management Home Lab](https://github.com/lukito09/Qualys-VMDR)
 
  
   <h2> Certifications</h2>
